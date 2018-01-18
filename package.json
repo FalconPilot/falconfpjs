@@ -1,0 +1,24 @@
+{
+  "name": "falconfpjs",
+  "version": "0.1.0",
+  "description": "Just a personal JS library. Feel free to use it if you really want to.",
+  "main": "src/lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FalconPilot/falconfpjs.git"
+  },
+  "keywords": [
+    "js",
+    "personal",
+    "library"
+  ],
+  "author": "falconpilot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FalconPilot/falconfpjs/issues"
+  },
+  "homepage": "https://github.com/FalconPilot/falconfpjs#readme"
+}
